@@ -1,0 +1,9 @@
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\ClearInfopathCache\ClearInfopathCache\bin\Debug\ClearInfopathCache.exe.config
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\ClearInfopathCache\ClearInfopathCache\bin\Debug\ClearInfopathCache.exe
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\ClearInfopathCache\ClearInfopathCache\bin\Debug\ClearInfopathCache.pdb
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\ClearInfopathCache\ClearInfopathCache\obj\Debug\ClearInfopathCache.csprojResolveAssemblyReference.cache
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\ClearInfopathCache\ClearInfopathCache\obj\Debug\ClearInfopathCache.Properties.Resources.resources
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\ClearInfopathCache\ClearInfopathCache\obj\Debug\ClearInfopathCache.csproj.GenerateResource.Cache
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\ClearInfopathCache\ClearInfopathCache\obj\Debug\ClearInfopathCache.exe
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\ClearInfopathCache\ClearInfopathCache\obj\Debug\ClearInfopathCache.pdb
+c:\users\tbatson\onedrive - paychex\documents\visual studio 2015\Projects\ClearInfopathCache\ClearInfopathCache\obj\Debug\ClearInfopathCache.Form1.resources
